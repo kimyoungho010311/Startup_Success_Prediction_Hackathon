@@ -1,0 +1,33 @@
+startup-success-prediction/
+│
+├── data/                    # 원본 데이터 및 전처리된 데이터 저장
+│   ├── raw/                 # 원본 데이터 (다운로드 그대로)
+│   └── processed/           # 전처리 완료된 데이터
+│
+├── notebooks/               # 팀원별 실험용 노트북 저장
+│   ├── alice/               # 팀원1 노트북
+│   │   └── alice_model.ipynb
+│   ├── bob/                 # 팀원2 노트북
+│   │   └── bob_feature.ipynb
+│   └── charlie/             # 팀원3 노트북
+│       └── charlie_eda.ipynb
+│
+├── src/                     # 함수화된 코드 모듈(.py) 파일 저장
+│   ├── data_loader.py       # 데이터 불러오기 함수
+│   ├── preprocessing.py     # 전처리 함수
+│   ├── feature_engineering.py # 특성 엔지니어링 함수
+│   ├── train.py             # 모델 학습 함수
+│   ├── predict.py           # 예측 함수
+│   └── utils.py             # 공통 함수 (시드 설정, 시각화 등)
+│
+├── config/                  # 설정 파일 (예: 하이퍼파라미터)
+│   └── config.yaml
+│
+├── outputs/                 # 모델 결과, 예측 결과, 로그 등
+│   ├── models/              # 학습된 모델 저장
+│   ├── predictions/         # 제출 파일(csv 등)
+│   └── logs/                # 학습 로그
+│
+├── requirements.txt         # 필요한 패키지 목록
+├── README.md                # 프로젝트 설명
+└── main.py                  # 실행 메인 스크립트
