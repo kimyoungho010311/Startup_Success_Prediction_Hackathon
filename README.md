@@ -1,14 +1,8 @@
 # Startup_Success_Prediction_Hackathon
-기업 성공 확률 예측 해커톤: 미래의 성공기업을 발굴하라!
+데이콘에서 주최한 대회인 기업 성공 확률 예측 해커톤: 미래의 성공기업을 발굴하라!에 참가해보았습니다.
 
+[보고서](https://github.com/kimyoungho010311/Startup_Success_Prediction_Hackathon/blob/main/notebooks/Ocean/Report.ipynb) <- 보고서 확인해보기
 
-# 📁 프로젝트 구조: Startup Success Prediction
-## 📌 디렉토리 설명
-
-- **data/**: 데이터 관련 폴더. `raw/`에는 원본, `processed/`에는 전처리된 데이터를 저장합니다.
-- **notebooks/**: 각 팀원이 실험용으로 사용하는 Jupyter 노트북을 팀원별로 정리합니다.
-- **src/**: 함수화된 주요 코드들이 들어가는 폴더입니다. 모듈 단위로 분리하여 유지보수와 재사용을 용이하게 합니다.
-- **config/**: 설정 파일을 저장합니다. 예: 모델 하이퍼파라미터, 경로 등
-- **outputs/**: 모델 학습 결과와 제출 파일, 로그 등을 저장합니다.
-- **requirements.txt**: 프로젝트에 필요한 파이썬 패키지를 명시합니다.
-- **main.py**: 전체 프로젝트를 실행하는 메인 스크립트입니다.
+[전처리 노트북](https://github.com/kimyoungho010311/Startup_Success_Prediction_Hackathon/blob/main/notebooks/Ocean/%EC%A0%84%EC%B2%98%EB%A6%AC%EB%85%B8%ED%8A%B8%EB%B6%81.ipynb) <- 전처리 과정 확인해보기<br>
+[EDA 노트북](https://github.com/kimyoungho010311/Startup_Success_Prediction_Hackathon/blob/main/notebooks/Ocean/Dacon_statrup_EDA.ipynb) <- EDA 과정 확인해보기<br>
+[All in one notbook](https://github.com/kimyoungho010311/Startup_Success_Prediction_Hackathon/blob/main/notebooks/Ocean/%EC%B5%9C%EC%A2%85%EB%B3%B8.ipynb)<br>
