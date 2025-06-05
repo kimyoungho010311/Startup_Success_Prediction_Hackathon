@@ -1,8 +1,5 @@
 # 🚀 Startup Success Prediction Hackathon
-
-> 데이콘에서 주최한 "기업 성공 확률 예측 해커톤: 미래의 성공기업을 발굴하라!" 대회 참가 프로젝트
-
----
+데이콘에서 주최한 "기업 성공 확률 예측 해커톤: 미래의 성공기업을 발굴하라!" 대회 참가 프로젝트
 
 ## 프로젝트 개요
 
@@ -27,9 +24,6 @@
 
 
 ## 기술 스택
-
-## 기술 스택
-
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)  [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)  [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)  [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)  
